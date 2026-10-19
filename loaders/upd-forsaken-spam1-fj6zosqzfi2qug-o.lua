@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/upd-forsaken-spam1-fj6zosqzfi2qug.lua"))()
