@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/new-zombie-air-force-spam7-5kqexko7g0pi2z.lua"))()
