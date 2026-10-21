@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/catch-the-artist-spam3-67v2nvdjij55lq.lua"))()
