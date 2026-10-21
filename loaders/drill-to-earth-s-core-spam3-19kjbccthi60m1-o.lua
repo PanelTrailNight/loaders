@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/drill-to-earth-s-core-spam3-19kjbccthi60m1.lua"))()
