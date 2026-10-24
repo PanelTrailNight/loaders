@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/5-hours-crazy-skeleton-rng-spam2-jjrycl67mc4ryo.lua"))()
