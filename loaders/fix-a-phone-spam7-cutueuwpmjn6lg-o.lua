@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/fix-a-phone-spam7-cutueuwpmjn6lg.lua"))()
