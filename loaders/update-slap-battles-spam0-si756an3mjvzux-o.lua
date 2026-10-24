@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/update-slap-battles-spam0-si756an3mjvzux.lua"))()
